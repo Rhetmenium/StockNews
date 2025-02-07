@@ -1,0 +1,1 @@
+After extracting the news data, a prediction can be made by confirming by saying "yes" and sending the copied text to a chatbot (for example ChatGPT).
